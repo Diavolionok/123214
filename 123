@@ -3,7 +3,7 @@
 main()
 {
 int y, x;
-scanf ("%d"&x);
+scanf ("%f"&x);
 y=cos(x)+10;
-printf("Resut: &d",y)
+printf("Resut: &f",y)
 }
