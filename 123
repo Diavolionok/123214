@@ -2,7 +2,8 @@
 #include <math.h>
 main()
 {
-int y, x;
+floud y;
+int x;
 scanf ("%d"&x);
 y=cos(x)+10;
 printf("Resut: &f",y)
